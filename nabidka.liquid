@@ -1,0 +1,63 @@
+---
+layout: layout.liquid
+---
+
+<section class="white-cat between">
+    <div class="container">
+        <div class="global-headline">
+            <div class="animate-top">
+                <h2 class="sub-headline">
+                    <span class="first-letter">N</span>abídka
+                </h2>
+            </div>
+            <div class="animate-bottom">
+                <h1 class="headline">zákusků</h1>
+            </div>
+        </div>
+    </div>
+</section>
+
+{%- for n in nabidka -%}
+  {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+  {% if thecycle == 'odd' %}
+    <section>
+        <div class="container">
+            <div class="info">
+                <div class="description padding-right animate-left">
+                    <div class="global-headline">
+                        <h1 class="headline headline-dark">{{ n.name }}</h1>
+                        <div class="asterisk"><i class="fas fa-askerisk"></i></div>
+                    </div>
+                    <p>{{ n.detail_1 }}</p> 
+                    <p>{{ n.detail_2 }}</p> 
+                </div>
+                <div class="info-img animate-rigt">
+                    <img src="{{ n.img }}" alt="">
+                </div>
+            </div>
+        </div>
+    </section>
+  {% else %}
+    <section>
+        <div class="container">
+            <div class="info">
+                <div class="info-img animate-left">
+                    <img src="{{ n.img }}" alt="">
+                </div>
+                <div class="description padding-left animate-right">
+                    <div class="global-headline">
+                        <h1 class="headline headline-dark">{{ n.name }}</h1>
+                        <div class="asterisk"><i class="fas fa-askerisk"></i></div>
+                    </div>
+                    <p>{{ n.detail_1 }}</p>
+                    <p>{{ n.detail_2 }}</p>  
+                </div>
+            </div>
+        </div>
+    </section>
+  {% endif %}
+{%- endfor -%}
+
+
+
+

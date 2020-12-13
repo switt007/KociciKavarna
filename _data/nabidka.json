@@ -1,0 +1,57 @@
+[    { 
+    "created": "2020-12-11",
+    "name": "Jablečný koláč",
+    "detail_1": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum quasi, incidunt exercitationem recusandae eumhic dolores debitis rerum numquam voluptates voluptatibus ab! Sit molestias magnam, numquam sunt ab vitae in.",
+    "detail_2": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum quasi, incidunt exercitationem recusandae eumhic dolores debitis rerum numquam voluptates voluptatibus ab! Sit molestias magnam, numquam sunt ab vitae in.",
+    "img": "/images/cake/apple.jpg"
+},  
+{
+    "created": "2020-12-11",
+    "name": "Dort banán v čokoládě",
+    "detail_1": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum quasi, incidunt exercitationem recusandae eumhic dolores debitis rerum numquam voluptates voluptatibus ab! Sit molestias magnam, numquam sunt ab vitae in.",
+    "detail_2": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum quasi, incidunt exercitationem recusandae eumhic dolores debitis rerum numquam voluptates voluptatibus ab! Sit molestias magnam, numquam sunt ab vitae in.",
+    "img": "/images/cake/banana.jpg"
+},
+{ 
+    "created": "2020-12-11",
+    "name": "Mango s jogurtem",
+    "detail_1": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum quasi, incidunt exercitationem recusandae eumhic dolores debitis rerum numquam voluptates voluptatibus ab! Sit molestias magnam, numquam sunt ab vitae in.",
+    "detail_2": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum quasi, incidunt exercitationem recusandae eumhic dolores debitis rerum numquam voluptates voluptatibus ab! Sit molestias magnam, numquam sunt ab vitae in.",
+    "img": "/images/cake/mango.jpg"
+    },
+{
+    "created": "2020-12-11",
+    "name": "Dort Mozart",
+    "detail_1": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum quasi, incidunt exercitationem recusandae eumhic dolores debitis rerum numquam voluptates voluptatibus ab! Sit molestias magnam, numquam sunt ab vitae in.",
+    "detail_2": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum quasi, incidunt exercitationem recusandae eumhic dolores debitis rerum numquam voluptates voluptatibus ab! Sit molestias magnam, numquam sunt ab vitae in.",
+    "img": "/images/cake/mozart.jpg"
+},
+{ 
+    "created": "2020-12-11",
+    "name": "Tvarohová malina",
+    "detail_1": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum quasi, incidunt exercitationem recusandae eumhic dolores debitis rerum numquam voluptates voluptatibus ab! Sit molestias magnam, numquam sunt ab vitae in.",
+    "detail_2": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum quasi, incidunt exercitationem recusandae eumhic dolores debitis rerum numquam voluptates voluptatibus ab! Sit molestias magnam, numquam sunt ab vitae in.",
+    "img": "/images/cake/raspberry.jpg"
+    },
+{
+    "created": "2020-12-11",
+    "name": "Dort Tropic",
+    "detail_1": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum quasi, incidunt exercitationem recusandae eumhic dolores debitis rerum numquam voluptates voluptatibus ab! Sit molestias magnam, numquam sunt ab vitae in.",
+    "detail_2": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum quasi, incidunt exercitationem recusandae eumhic dolores debitis rerum numquam voluptates voluptatibus ab! Sit molestias magnam, numquam sunt ab vitae in.",
+    "img": "/images/cake/tropic.jpg"
+},
+{ 
+    "created": "2020-12-11",
+    "name": "Sacher",
+    "detail_1": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum quasi, incidunt exercitationem recusandae eumhic dolores debitis rerum numquam voluptates voluptatibus ab! Sit molestias magnam, numquam sunt ab vitae in.",
+    "detail_2": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum quasi, incidunt exercitationem recusandae eumhic dolores debitis rerum numquam voluptates voluptatibus ab! Sit molestias magnam, numquam sunt ab vitae in.",
+    "img": "/images/cake/Sacher.jpg"
+    },
+{
+    "created": "2020-12-11",
+    "name": "Schwarzwald",
+    "detail_1": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum quasi, incidunt exercitationem recusandae eumhic dolores debitis rerum numquam voluptates voluptatibus ab! Sit molestias magnam, numquam sunt ab vitae in.",
+    "detail_2": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum quasi, incidunt exercitationem recusandae eumhic dolores debitis rerum numquam voluptates voluptatibus ab! Sit molestias magnam, numquam sunt ab vitae in.",
+    "img": "/images/cake/schwarzwald.jpg"
+}
+]

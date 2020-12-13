@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Kočičí kavárna</title>
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
+    <script src="https://unpkg.com/scrollreveal"></script>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <nav class="nav" id="nav">
+                <div class="menu-toggle">
+                    <i class="fas fa-bars"></i>
+                    <i class="fas fa-times"></i>
+                </div>
+                <a href="index.html" class="logo"><img src="/images/logo-raj.png" alt=""></a>
+                <ul class="nav-list">
+                    <li class="nav-item">
+                        <a href="/" class="nav-link">Úvod</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/aktuality" class="nav-link">Aktuality</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/nabidka" class="nav-link">Nabídka zákusků</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/adopce" class="nav-link">Kočky k adopci</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/kontakt" class="nav-link">Kontakt</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+{{ content }}
+<footer>
+    <div class="container">
+        <div class="back-to-top">
+            <a href="#nav"><i class="fas fa-chevron-up"></i></a>
+        </div>
+        <div class="footer-content">
+            <div class="footer-content-about animate-up">
+                <h4>Toulavý ráj</h4>
+                <p>
+                    Kočičí kavárna nacházející se v Kroměříži. 
+                    Přijďte si osladit život, pomazlit se s kočičkama a kdo ví?
+                    Možná u nás najdete parťáka na celý život.
+                </p>
+            </div>
+            <div class="footer-content-divider animate-bottom">
+                <div class="social-media">
+                    <h4>Sledujte nás: </h4>
+                    <ul class="social-icons">
+                        <li>
+                            <a href="#"><i class="fab fa-twitter"></i></a>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fab fa-facebook-square"></i></a>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fab fa-youtube"></i></a>
+                        </li>
+                    </ul>
+                </div>
+                <div>
+                    <h4>ADRESA: </h4>
+                    <p>
+                        Třebízského 1331/15, 767 01 Kroměříž
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<script src="/js/main.js"></script>
+</body>
+</html>

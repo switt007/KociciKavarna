@@ -1,0 +1,29 @@
+[    { 
+        "created": "2020-12-11",
+        "name": "Briketa",
+        "detail_1": "Taková černá umňoukaná kočka",
+        "detail_2": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum quasi, incidunt exercitationem recusandae eumhic dolores debitis rerum numquam voluptates voluptatibus ab! Sit molestias magnam, numquam sunt ab vitae in.",
+        "img": "/images/adopce/briketa.jpg"
+    },  
+    {
+        "created": "2020-12-11",
+        "name": "Satanka",
+        "detail_1": "Chlupatá koule",
+        "detail_2": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum quasi, incidunt exercitationem recusandae eumhic dolores debitis rerum numquam voluptates voluptatibus ab! Sit molestias magnam, numquam sunt ab vitae in.",
+        "img": "/images/adopce/sasu.jpg"
+    },
+    { 
+        "created": "2020-12-11",
+        "name": "Lemík",
+        "detail_1": "Takový kočičí Zeman...",
+        "detail_2": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum quasi, incidunt exercitationem recusandae eumhic dolores debitis rerum numquam voluptates voluptatibus ab! Sit molestias magnam, numquam sunt ab vitae in.",
+        "img": "/images/adopce/lemu.jpg"
+        },
+    {
+        "created": "2020-12-11",
+        "name": "Lojza",
+        "detail_1": "Taky pěknej dacan",
+        "detail_2": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum quasi, incidunt exercitationem recusandae eumhic dolores debitis rerum numquam voluptates voluptatibus ab! Sit molestias magnam, numquam sunt ab vitae in.",
+        "img": "/images/adopce/lojza.jpg"
+    }
+]
