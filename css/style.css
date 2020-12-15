@@ -325,6 +325,16 @@ header {
     background-size: cover;
 }
 
+.brown-cat {
+    background: url("/images/brown-cat.jpg") center no-repeat;
+    background-size: cover;
+}
+
+.ginger-cat {
+    background: url("/images/ginger-cat.jpg") center no-repeat;
+    background-size: cover;
+}
+
 .between {
     min-height: 65vh;
     display: flex;

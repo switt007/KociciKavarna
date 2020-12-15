@@ -25,5 +25,12 @@
         "detail_1": "Taky pěknej dacan",
         "detail_2": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum quasi, incidunt exercitationem recusandae eumhic dolores debitis rerum numquam voluptates voluptatibus ab! Sit molestias magnam, numquam sunt ab vitae in.",
         "img": "/images/adopce/lojza.jpg"
-    }
+    },
+    { 
+        "created": "2020-12-11",
+        "name": "Gandalf",
+        "detail_1": "Tak trochu kouzelník...",
+        "detail_2": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum quasi, incidunt exercitationem recusandae eumhic dolores debitis rerum numquam voluptates voluptatibus ab! Sit molestias magnam, numquam sunt ab vitae in.",
+        "img": "/images/adopce/gandalf.jpg"
+        }
 ]

@@ -1,4 +1,12 @@
-[    { 
+[    
+    {
+        "created": "2020-12-11",
+        "name": "Let x = kokos speciál",
+        "detail_1": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum quasi, incidunt exercitationem recusandae eumhic dolores debitis rerum numquam voluptates voluptatibus ab! Sit molestias magnam, numquam sunt ab vitae in.",
+        "detail_2": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum quasi, incidunt exercitationem recusandae eumhic dolores debitis rerum numquam voluptates voluptatibus ab! Sit molestias magnam, numquam sunt ab vitae in.",
+        "img": "/images/cake/coconut.jpg"
+    },
+    { 
     "created": "2020-12-11",
     "name": "Jablečný koláč",
     "detail_1": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum quasi, incidunt exercitationem recusandae eumhic dolores debitis rerum numquam voluptates voluptatibus ab! Sit molestias magnam, numquam sunt ab vitae in.",

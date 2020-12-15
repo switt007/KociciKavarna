@@ -35,7 +35,7 @@ layout: layout.liquid
 .div20 { grid-area: 7 / 3 / 8 / 4; }
 </style>
 
-<section class="white-cat between">
+<section class="ginger-cat between">
     <div class="container">
         <div class="global-headline">
             <div class="animate-top">
@@ -105,7 +105,12 @@ layout: layout.liquid
 		tileSize: 512,
 		zoomOffset: -1
 	}).addTo(mymap);
-	L.marker([49.3012225, 17.3864669]).addTo(mymap)
+    let catIcon = L.icon({
+    iconUrl: '/images/icon.png',
+    iconSize:     [57, 90], // size of the icon
+    iconAnchor:   [22, 94], // point of the icon which will correspond to marker's location
+    popupAnchor:  [-3, -76]}) // point from which the popup should open relative to the iconAnchor
+	L.marker([49.3012225, 17.3864669], {icon: catIcon}).addTo(mymap)
 		.bindPopup("<b>Kočičí kavárna</b><br />Kitt&Café").openPopup();
 	L.polygon([
 		[51.509, -0.08],
