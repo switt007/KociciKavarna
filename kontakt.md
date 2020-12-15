@@ -75,18 +75,18 @@ layout: layout.liquid
 <div class="div6 center bold"> SO</div>
 <div class="div7 center bold"> NE</div>
 <div class="div8 center">ZAVŘENO</div>
-<div class="div9 center"> 8:00</div>
-<div class="div10 center"> 17:00</div>
-<div class="div11 center"> 8:00</div>
-<div class="div12 center"> 17:00</div>
-<div class="div13 center"> 8:00</div>
-<div class="div14 center"> 17:00</div>
-<div class="div15 center"> 8:00</div>
-<div class="div16 center"> 17:00</div>
-<div class="div17 center"> 8:00</div>
-<div class="div18 center"> 20:00</div>
-<div class="div19 center"> 8:00</div>
-<div class="div20 center"> 20:00</div>
+<div class="div9 center"> 13:00</div>
+<div class="div10 center"> 19:00</div>
+<div class="div11 center"> 13:00</div>
+<div class="div12 center"> 19:00</div>
+<div class="div13 center"> 13:00</div>
+<div class="div14 center"> 19:00</div>
+<div class="div15 center"> 13:00</div>
+<div class="div16 center"> 19:00</div>
+<div class="div17 center"> 13:00</div>
+<div class="div18 center"> 19:00</div>
+<div class="div19 center"> 13:00</div>
+<div class="div20 center"> 19:00</div>
 </div>
                 </div>               
             </div>
