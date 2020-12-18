@@ -184,6 +184,16 @@ header {
     padding-bottom: 20px;
 }
 
+.off-headline {
+    font-size: 8.5rem;
+    font-family: var(--secondary-font);
+    color: var(--secondary-font-color);
+    font-weight: 100;
+    line-height: .4;
+    letter-spacing: 2px;
+    padding-bottom: 20px;
+}
+
 .first-letter {
     text-transform: uppercase;
     font-size: 10.3rem;
@@ -198,6 +208,17 @@ header {
     letter-spacing: .5rem;
     margin-right: -.5rem;
     animation: scale .5s forwards;
+
+}
+
+.head-off {
+    color: #fff;
+    font-size: 4.5rem;
+    font-family: var(--main-font);
+    text-transform: uppercase;
+    font-weight: 900;
+    letter-spacing: .5rem;
+    margin-right: -.5rem;
 
 }
 

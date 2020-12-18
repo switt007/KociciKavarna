@@ -19,10 +19,10 @@ layout: layout.liquid
         <div class="info">
             <div class="description padding-right animate-left">
                 <div class="global-headline">
-                    <h2 class="sub-headline">
+                    <h2 class="off-headline">
                         <span class="first-letter">O</span>bjevte
                     </h2>
-                    <h1 class="headline headline-dark">TOULAVÝ RÁJ</h1>
+                    <h1 class="head-off headline-dark">TOULAVÝ RÁJ</h1>
                     <div class="asterisk"><i class="fas fa-askerisk"></i></div>
                 </div>
                 <p>
@@ -41,7 +41,7 @@ layout: layout.liquid
     <div class="container">
         <div class="global-headline">
             <div class="animate-top">
-                <h2 class="sub-headline">
+                <h2 class="off-headline">
                     <span class="first-letter">V</span>ynikající
                 </h2>
             </div>
@@ -62,10 +62,10 @@ layout: layout.liquid
             </div>
             <div class="description animate-right">
                 <div class="global-headline">
-                    <h2 class="sub-headline">
+                    <h2 class="off-headline">
                         <span class="first-letter">K</span> jídlu
                     </h2>  
-                    <h1 class="headline headline-dark">i pití</h1>
+                    <h1 class="head-off headline-dark">i pití</h1>
                     <div class="asterisk"><i class="fas fa-askerisk"></i></div>
                 </div>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla optio, error iure eius mollitia id
@@ -81,7 +81,7 @@ layout: layout.liquid
     <div class="container">
         <div class="global-headline">
             <div class="animate-top">
-                <h2 class="sub-headline">
+                <h2 class="off-headline">
                     <span class="first-letter">H</span>ledají
                 </h2>
             </div>
@@ -96,10 +96,10 @@ layout: layout.liquid
         <div class="info">
             <div class="description padding-right animate-left">
                 <div class="global-headline">
-                    <h2 class="sub-headline">
+                    <h2 class="off-headline">
                         <span class="first-letter">K</span>očičky
                     </h2>
-                    <h1 class="headline headline-dark">k adopci</h1>
+                    <h1 class="head-off headline-dark">k adopci</h1>
                     <div class="asterisk"><i class="fas fa-askerisk"></i></div>
                 </div>
                 <p>
