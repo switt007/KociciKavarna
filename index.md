@@ -46,7 +46,7 @@ layout: layout.liquid
                 </h2>
             </div>
             <div class="animate-bottom">
-                <h1 class="headline">zákusky</h1>
+                <h1 class="head-off">zákusky</h1>
             </div>
         </div>
     </div>
@@ -86,7 +86,7 @@ layout: layout.liquid
                 </h2>
             </div>
             <div class="animate-bottom">
-                <h1 class="headline">domov</h1>
+                <h1 class="head-off">domov</h1>
             </div>
         </div>
     </div>

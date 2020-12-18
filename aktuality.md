@@ -6,7 +6,7 @@ layout: layout.liquid
     <div class="container">
         <div class="global-headline">
             <div class="animate-top">
-                <h2 class="sub-headline">
+                <h2 class="off-headline">
                     <span class="first-letter">A</span>ktuality
                 </h2>
             </div>
